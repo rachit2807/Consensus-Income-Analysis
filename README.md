@@ -1,13 +1,13 @@
 # Consensus Income Analysis
 
 ## Overview
-This project was created as a part of a hackathon where I participated in a data analytics competition. The goal was to analyze income data and build a model to predict income levels based on various demographic factors.
+This project was created as a part of a hackathon where I participated in a data analytics competition. The goal was to analyze income data based on various demographic factors.
 
 ## Project Goal
-The primary objective of this project was to develop a machine learning model that could accurately predict income levels based on demographic features such as age, education, occupation, etc.
+The primary objective of this project was to analyse and visualise income levels based on demographic features such as age, education, occupation, etc.
 
 ## Dataset
-The dataset used for this analysis is the Census Income dataset from the UCI Machine Learning Repository. It contains demographic information about individuals such as age, education, marital status, occupation, etc., and the corresponding income levels (whether income exceeds $50K/year or not).
+The dataset used for this analysis was provided by the organizers of the hackathon.
 
 ## Approach
 1. **Data Preprocessing:** 
@@ -18,11 +18,8 @@ The dataset used for this analysis is the Census Income dataset from the UCI Mac
 2. **Exploratory Data Analysis (EDA):**
    - Explored the relationships between different features and income levels.
    - Visualized the distribution of various features.
-
-3. **Model Building:**
-   - Tried various machine learning algorithms such as Logistic Regression, Random Forest, and Gradient Boosting.
-   - Tuned hyperparameters using cross-validation.
-   - Evaluated models based on accuracy and F1-score.
+     
+3. **Power BI Report:** 
 
 ## Results
 - Secured **2nd** position in the hackathon.
@@ -45,4 +42,5 @@ This project provided valuable insights into the factors affecting income levels
 ## Acknowledgments
 - Thanks to the organizers of the hackathon for providing the opportunity to work on this project.
 
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-bhatia-7850b624a/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachit2807/)
 
